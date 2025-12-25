@@ -1,0 +1,2 @@
+print("hi","hi", end ='...', sep="...")
+print("hi") 

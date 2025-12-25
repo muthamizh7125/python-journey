@@ -1,0 +1,7 @@
+print("escape sequence")
+print('this his monkey\'s bag')
+print("im the one who is a \"king\" of the jungle")
+print("nice try \"bitch\" ")
+print('who the "heck" are you ')
+print('IM THE ONLY ONE who is a"dictator","leader","conqueror" ')
+print("bro i got backslash: \ ")
